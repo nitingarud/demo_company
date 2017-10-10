@@ -11,12 +11,13 @@ http://eaglegn.dx.am/
 
 Use Foundation/Bootstrap for CSS/JS.
 
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/bootstrap.min.css
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/jquery-ui.css">
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery.min.js
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.min.js
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.js
-http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery-ui.js
+
+1. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/bootstrap.min.css
+2. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/jquery-ui.css
+3. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery.min.js
+4. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.min.js
+5. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.js
+6. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery-ui.js
 
 
 ### use http://underscores.me/ starter theme
