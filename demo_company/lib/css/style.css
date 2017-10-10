@@ -1,0 +1,17 @@
+.fright{float:right !important;}
+.fleft{float:left !important;}
+.clear{clear:both;}
+.portfolio{font-size: 15px;color: #888;font-family: tahoma;font-weight: 600;}
+.lnews{margin:0px;}
+.recent{background: #f8f8f8;border: 1px solid #ccc;}
+.bdr{border-bottom:1.8px dashed;}
+.footer-mark{font-family: tahoma;color:#999;font-size: 13px;}
+.cf{color: #666;font-size: 13px !important;font-family: tahoma;padding-right: 0.35rem !important;}
+.dd{padding: 12px 0px;}
+.security{font-size: 13px; font-family: tahoma ! important; color: rgb(136, 136, 136); font-weight: 100;}
+.tap{width: 75%;}
+.align{text-align: center;}
+.activities-text{font-size: 15px;color: #000;font-family: goergia;text-align:left;width: 87%;}
+.act{font-size: 13px;font-family: tahoma;color:#333;text-align: left;width: 87%;font-weight:500;}
+.newslist.navbar-nav.security.dd > li:hover{list-style: outside url("images/sidebar-bullethover.jpg") disc !important;color: #993408;cursor: pointer;}
+.nav-link.cf:hover{color:#993408;}
