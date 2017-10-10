@@ -20,6 +20,6 @@ You can use Foundation/Bootstrap for CSS/JS.
 6. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery-ui.js
 
 
-### use http://underscores.me/ starter theme
+### Use http://underscores.me/ starter theme
 
 Pages site will use the layout and styles from the http://underscores.me/ starter theme.
