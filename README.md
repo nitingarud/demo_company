@@ -1,16 +1,24 @@
 ## Welcome to Demo Company Pages
 
-You can use the [editor on GitHub](https://github.com/nitingarud/demo_company/edit/master/README.md) to maintain and preview the content for website.
-
 ### Demo Link
  
-You can use link to preview Demo Company Website. 
+You can use link to preview Demo Company Website.
+
 http://eaglegn.dx.am/
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitingarud/demo_company/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### links to libraries
 
-### Support or Contact
+Use Foundation/Bootstrap for CSS/JS.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/bootstrap.min.css
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/jquery-ui.css">
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery.min.js
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.min.js
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/bootstrap.js
+http://eaglegn.dx.am/wp-content/themes/demo_company/lib/js/jquery-ui.js
+
+
+### use http://underscores.me/ starter theme
+
+Pages site will use the layout and styles from the http://underscores.me/ starter theme.
