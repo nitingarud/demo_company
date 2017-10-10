@@ -9,7 +9,7 @@ http://eaglegn.dx.am/
 
 ### links to libraries
 
-Use Foundation/Bootstrap for CSS/JS.
+You can use Foundation/Bootstrap for CSS/JS.
 
 
 1. http://eaglegn.dx.am/wp-content/themes/demo_company/lib/css/bootstrap.min.css
